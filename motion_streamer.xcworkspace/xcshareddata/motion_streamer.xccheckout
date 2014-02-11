@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E9517B62-11C2-419D-8459-F8E51D875CDC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>motion_streamer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5DE21899-7FDB-4385-8148-A1B1834E2603</key>
+		<string>https://github.com/HugoDellinger/gyroStreamer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>motion_streamer.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>432DFAD6-99C4-400D-9E2B-3DC4554F29D2</key>
+		<string>../motion_streamer</string>
+		<key>5DE21899-7FDB-4385-8148-A1B1834E2603</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HugoDellinger/gyroStreamer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5DE21899-7FDB-4385-8148-A1B1834E2603</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DE21899-7FDB-4385-8148-A1B1834E2603</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gyroStreamer</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>432DFAD6-99C4-400D-9E2B-3DC4554F29D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>motion_streamer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
